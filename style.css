@@ -1,0 +1,40 @@
+body {
+    font-weight: 500;
+    font-size: 18px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    align-self: center;
+}
+.text{
+    padding: 30px 10%;
+    background-color: #f0f0f0;
+    box-shadow: 6px 4px 4px rgba(0, 0, 0, .2);
+}
+h1 {
+    padding: 4px 10%;
+    background-color: #E20074;
+    color: white;
+    box-shadow: 6px 4px 4px rgba(0, 0, 0, .2);
+}
+
+a {
+    margin-left: 20px;
+    padding: 9px 25px;
+    background-color: #e2368f;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3 ease 0s;
+    color: white;
+}
+
+a:hover{
+    background-color: white;
+    color: #aa296c;
+    outline: auto;
+    transition: 0.5s;
+}
